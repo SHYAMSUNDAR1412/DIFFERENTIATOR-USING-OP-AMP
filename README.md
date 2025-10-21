@@ -50,10 +50,15 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+![WhatsApp Image 2025-10-21 at 14 04 20_7574672c](https://github.com/user-attachments/assets/4a768216-9f65-44f2-b0da-e9905b0e1062)
+
 
 
 GRAPH:
+![WhatsApp Image 2025-10-21 at 14 04 19_14847fd2](https://github.com/user-attachments/assets/149dad00-d918-48a3-822b-8eb66123133d)
+
 
 
 RESULT:
+Thus, the differentiator circuits is designed and its performance was successfully tested using op-amp IC 741.
 
